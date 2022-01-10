@@ -1,0 +1,14 @@
+me.chubbyduck.cloud.robots
+me.chubbyduck.cloud.robots.abstraction
+me.chubbyduck.cloud.robots.api
+me.chubbyduck.cloud.robots.api.events
+me.chubbyduck.cloud.robots.commands
+me.chubbyduck.cloud.robots.commands.subcommands
+me.chubbyduck.cloud.robots.economies
+me.chubbyduck.cloud.robots.enums
+me.chubbyduck.cloud.robots.inventories
+me.chubbyduck.cloud.robots.listeners
+me.chubbyduck.cloud.robots.managers
+me.chubbyduck.cloud.robots.objects
+me.chubbyduck.cloud.robots.tasks
+me.chubbyduck.cloud.robots.utils
